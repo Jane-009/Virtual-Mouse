@@ -25,6 +25,7 @@ Gaming & VR Ready: Upgrade to natural gesture-based gaming and immerse in virtua
 
 Universal Automation: Map gestures and voice triggers to any software. From music to robotics, the possibilities are endless.
 
+-----------------------------------------------------------------------
 🛠️ Get Started Instantly ~ 🔶
 bash
 git clone https://github.com/your-username/ai-virtual-mouse.git
@@ -34,6 +35,7 @@ cd ai-virtual-mouse
 pip install -r requirements.txt
 
 python main.py
+-----------------------------------------------------------------------
 
 💡 What’s Coming Next? ~ ✨
 AI-adaptive gesture learning—personalized patterns and automatic calibration.
