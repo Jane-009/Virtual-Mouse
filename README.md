@@ -1,7 +1,10 @@
 ✨ AI Virtual Mouse: The Future of Human-Computer Interaction 🚀
+-
+
 Control your computer with the wave of a hand! This revolutionary interface blends gesture recognition and voice commands to create a seamless, touch-free computing experience powered by cutting-edge AI.
 
 🌟 Next-Gen Features ~ ♣️
+-
 
 Neural-Powered Hand Tracking
 
@@ -18,6 +21,7 @@ Gesture Security Zones ( AI featured )
 Multi-Device Ecosystem
 
 🌟 Futuristic Use Cases ~ ♣️
+------------
 
 Touchless Workspaces: Ultimate accessibility—control presentations, design, games, or browse the web with simple hand motions and words.
 
@@ -27,6 +31,7 @@ Universal Automation: Map gestures and voice triggers to any software. From musi
 
 -----------------------------------------------------------------------
 🛠️ Get Started Instantly ~ 🔶
+----
 bash
 git clone https://github.com/your-username/ai-virtual-mouse.git
 
@@ -35,9 +40,12 @@ cd ai-virtual-mouse
 pip install -r requirements.txt
 
 python main.py
+
 -----------------------------------------------------------------------
 
 💡 What’s Coming Next? ~ ✨
+--
+
 AI-adaptive gesture learning—personalized patterns and automatic calibration.
 
 Multi-hand and multi-user support.
@@ -45,6 +53,7 @@ Multi-hand and multi-user support.
 Enhanced privacy, low-latency modes, and even AR integrations.
 
 🔮 Future Roadmap  ~  ♣️
+--
 
 Neural Link Integration :
 Direct brainwave control via EEG sensor fusion
@@ -60,6 +69,7 @@ Context-aware predictive actions with GPT-6 integration
 
 
 ⚡ Join the Revolution ~ ♣️
+--
 
 Elevate your digital experience—AI Virtual Mouse is your key to immersive, futuristic control. Ready to upgrade? Welcome to the future.
 Empower your workflow. Command your world with a wave and a word. Join us in reimagining human-computer interaction—today.
