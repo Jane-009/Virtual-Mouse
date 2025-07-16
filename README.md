@@ -28,8 +28,11 @@ Universal Automation: Map gestures and voice triggers to any software. From musi
 🛠️ Get Started Instantly ~ 🔶
 bash
 git clone https://github.com/your-username/ai-virtual-mouse.git
+
 cd ai-virtual-mouse
+
 pip install -r requirements.txt
+
 python main.py
 
 💡 What’s Coming Next? ~ ✨
