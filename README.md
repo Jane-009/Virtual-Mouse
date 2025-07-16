@@ -30,6 +30,7 @@ Gaming & VR Ready: Upgrade to natural gesture-based gaming and immerse in virtua
 Universal Automation: Map gestures and voice triggers to any software. From music to robotics, the possibilities are endless.
 
 -----------------------------------------------------------------------
+
 🛠️ Get Started Instantly ~ 🔶
 ----
 bash
